@@ -1,2 +1,3 @@
-<h1>Página de Modificações</h1>
-<h3>Voltado a modificações simples, como de navegadores, jogos, etc.</h3>
+# Modificações Simples com HTML e CSS
+
+Este repositório contém exemplos e tutoriais de como criar e modificar elementos simples usando HTML e CSS. Personalização de páginas e jogos diretamente no navegador.
